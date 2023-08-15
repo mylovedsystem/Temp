@@ -1,6 +1,6 @@
-layout:default
+{{ layout:default }}
 ---
- lesson-example: "https://carpentries.github.io/lesson-example/"
+lesson-example: "https://carpentries.github.io/lesson-example/"
 --- 
              
 # Building Websites in GitHub
