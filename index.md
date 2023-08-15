@@ -5,9 +5,7 @@ layout:default
 --- 
              
 {% include navigation.html %}
-
-{{ content }}
-             
+           
 # Building Websites in GitHub
              
 ## Description
